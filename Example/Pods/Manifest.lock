@@ -1,0 +1,16 @@
+PODS:
+  - FFKit (0.1.0)
+
+DEPENDENCIES:
+  - FFKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFKit: a21b375c7e8f7e8d7f8372b468c4db6df69ca1d9
+
+PODFILE CHECKSUM: ce4cb8fcf38f1cad1b0e6c7bc947422b3087617d
+
+COCOAPODS: 1.10.1
